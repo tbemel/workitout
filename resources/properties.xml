@@ -1,0 +1,130 @@
+<resources>
+
+	<properties>
+		<property id="record_prop" type="boolean">true</property>
+		<property id="beep_prop" type="boolean">true</property>
+		<property id="vibrate_prop" type="boolean">true</property>
+		<property id="nrround_prop" type="number">1</property>
+		<property id="wkpround_prop" type="number">7</property>
+		<property id="extime_prop" type="number">45</property>
+		<property id="resttime_prop" type="number">15</property>
+		<property id="workout1_prop" type="string">Jumping jacks</property>
+		<property id="workout2_prop" type="string">Wall sit</property>
+		<property id="workout3_prop" type="string">Push-ups</property>
+		<property id="workout4_prop" type="string">Abs Crunch</property>
+		<property id="workout5_prop" type="string">Setup on chair</property>
+		<property id="workout6_prop" type="string">Squats</property>
+		<property id="workout7_prop" type="string">Triceps dip</property>
+		<property id="workout8_prop" type="string">Plank</property>
+		<property id="workout9_prop" type="string">High knee run</property>
+		<property id="workout10_prop" type="string">Lunge</property>
+		<property id="workout11_prop" type="string">Push-up turn</property>
+		<property id="workout12_prop" type="string">Side plank</property>
+		<property id="workout13_prop" type="string">Push-up turn</property>
+		<property id="workout14_prop" type="string">punch boxing</property>
+		<property id="workout15_prop" type="string">high kicks</property>
+	</properties>
+
+	<strings>
+		<string id="record_title">Record Activity?</string>
+		<string id="beep_title">Beep on relax/start?</string>
+		<string id="vibrate_title">Vibrate on relax/start?</string>
+		<string id="nrround_title">How many round to repeat?</string>
+		<string id="wkpround_title">How many workout types in a round?</string>
+		<string id="extime_title">Exercise time in seconds for each workout?</string>
+		<string id="resttime_title">Rest time in seconds for each workout?</string>
+		<string id="workout1_title">Workout 1</string>
+		<string id="workout2_title">Workout 2</string>
+		<string id="workout3_title">Workout 3</string>
+		<string id="workout4_title">Workout 4</string>
+		<string id="workout5_title">Workout 5</string>
+		<string id="workout6_title">Workout 6</string>
+		<string id="workout7_title">Workout 7</string>
+		<string id="workout8_title">Workout 8</string>
+		<string id="workout9_title">Workout 9</string>
+		<string id="workout10_title">Workout 10</string>
+		<string id="workout11_title">Workout 11</string>
+		<string id="workout12_title">Workout 12</string>
+		<string id="workout13_title">Workout 13</string>
+		<string id="workout14_title">Workout 14</string>
+		<string id="workout15_title">Workout 15</string>
+
+		<string id="min1max20">minimum 1 max 20</string>
+		<string id="min3max15">minimum 3 max 15</string>
+		<string id="min5max120">minimum 5 max 120</string>
+		<string id="min30max300">minimum 30 max 300</string>
+	</strings>
+
+	<settings>
+		<setting propertyKey="@Properties.record_prop" title="@Strings.record_title">
+			<settingConfig type="boolean" />
+		</setting>
+		<setting propertyKey="@Properties.beep_prop" title="@Strings.beep_title">
+			<settingConfig type="boolean" />
+		</setting>
+		<setting propertyKey="@Properties.vibrate_prop" title="@Strings.vibrate_title">
+			<settingConfig type="boolean" />
+		</setting>
+		<setting propertyKey="@Properties.nrround_prop" title="@Strings.nrround_title">
+			<settingConfig type="numeric" min="1" max="20"
+				errorMessage="@Strings.min1max20" />
+		</setting>
+		<setting propertyKey="@Properties.wkpround_prop" title="@Strings.wkpround_title">
+			<settingConfig type="numeric" min="3" max="15"
+				errorMessage="@Strings.min3max15" />
+		</setting>
+		<setting propertyKey="@Properties.extime_prop" title="@Strings.extime_title">
+			<settingConfig type="numeric" min="30" max="300"
+				errorMessage="@Strings.min30max300" />
+		</setting>
+		<setting propertyKey="@Properties.resttime_prop" title="@Strings.resttime_title">
+			<settingConfig type="numeric" min="5" max="120"
+				errorMessage="@Strings.min5max120" />
+		</setting>
+		<setting propertyKey="@Properties.workout1_prop" title="@Strings.workout1_title">
+			<settingConfig type="alphaNumeric" />
+		</setting>
+		<setting propertyKey="@Properties.workout2_prop" title="@Strings.workout2_title">
+			<settingConfig type="alphaNumeric" />
+		</setting>
+		<setting propertyKey="@Properties.workout3_prop" title="@Strings.workout3_title">
+			<settingConfig type="alphaNumeric" />
+		</setting>
+		<setting propertyKey="@Properties.workout4_prop" title="@Strings.workout4_title">
+			<settingConfig type="alphaNumeric" />
+		</setting>
+		<setting propertyKey="@Properties.workout5_prop" title="@Strings.workout5_title">
+			<settingConfig type="alphaNumeric" />
+		</setting>
+		<setting propertyKey="@Properties.workout6_prop" title="@Strings.workout6_title">
+			<settingConfig type="alphaNumeric" />
+		</setting>
+		<setting propertyKey="@Properties.workout7_prop" title="@Strings.workout7_title">
+			<settingConfig type="alphaNumeric" />
+		</setting>
+		<setting propertyKey="@Properties.workout8_prop" title="@Strings.workout8_title">
+			<settingConfig type="alphaNumeric" />
+		</setting>
+		<setting propertyKey="@Properties.workout9_prop" title="@Strings.workout9_title">
+			<settingConfig type="alphaNumeric" />
+		</setting>
+		<setting propertyKey="@Properties.workout10_prop" title="@Strings.workout10_title">
+			<settingConfig type="alphaNumeric" />
+		</setting>
+		<setting propertyKey="@Properties.workout11_prop" title="@Strings.workout11_title">
+			<settingConfig type="alphaNumeric" />
+		</setting>
+		<setting propertyKey="@Properties.workout12_prop" title="@Strings.workout12_title">
+			<settingConfig type="alphaNumeric" />
+		</setting>
+		<setting propertyKey="@Properties.workout13_prop" title="@Strings.workout13_title">
+			<settingConfig type="alphaNumeric" />
+		</setting>
+		<setting propertyKey="@Properties.workout14_prop" title="@Strings.workout14_title">
+			<settingConfig type="alphaNumeric" />
+		</setting>
+		<setting propertyKey="@Properties.workout15_prop" title="@Strings.workout15_title">
+			<settingConfig type="alphaNumeric" />
+		</setting>
+	</settings>
+</resources>

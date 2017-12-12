@@ -1,0 +1,659 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<debugInfo>
+<pcToLineNum>
+<entry filename="C:\\BACKUP\\PGM\\eWorkSpace\\WorkItOut v2.3\\.\\source\\WorkItOutView.mc" lineNum="50" pc="268435456" symbol="setActionString"/>
+<entry filename="C:\\BACKUP\\PGM\\eWorkSpace\\WorkItOut v2.3\\.\\source\\WorkItOutView.mc" lineNum="52" pc="268435468" symbol="setActionString"/>
+<entry filename="C:\\BACKUP\\PGM\\eWorkSpace\\WorkItOut v2.3\\.\\source\\WorkItOutView.mc" lineNum="53" pc="268435478" symbol="setActionString"/>
+<entry filename="C:\\BACKUP\\PGM\\eWorkSpace\\WorkItOut v2.3\\.\\source\\WorkItOutView.mc" lineNum="56" pc="268435495" symbol="setBehaviorString"/>
+<entry filename="C:\\BACKUP\\PGM\\eWorkSpace\\WorkItOut v2.3\\.\\source\\WorkItOutView.mc" lineNum="58" pc="268435507" symbol="setBehaviorString"/>
+<entry filename="C:\\BACKUP\\PGM\\eWorkSpace\\WorkItOut v2.3\\.\\source\\WorkItOutView.mc" lineNum="59" pc="268435517" symbol="setBehaviorString"/>
+<entry filename="C:\\BACKUP\\PGM\\eWorkSpace\\WorkItOut v2.3\\.\\source\\WorkItOutView.mc" lineNum="64" pc="268435534" symbol="stopRecording"/>
+<entry filename="C:\\BACKUP\\PGM\\eWorkSpace\\WorkItOut v2.3\\.\\source\\WorkItOutView.mc" lineNum="66" pc="268435546" symbol="stopRecording"/>
+<entry filename="C:\\BACKUP\\PGM\\eWorkSpace\\WorkItOut v2.3\\.\\source\\WorkItOutView.mc" lineNum="68" pc="268435563" symbol="stopRecording"/>
+<entry filename="C:\\BACKUP\\PGM\\eWorkSpace\\WorkItOut v2.3\\.\\source\\WorkItOutView.mc" lineNum="70" pc="268435602" symbol="stopRecording"/>
+<entry filename="C:\\BACKUP\\PGM\\eWorkSpace\\WorkItOut v2.3\\.\\source\\WorkItOutView.mc" lineNum="71" pc="268435620" symbol="stopRecording"/>
+<entry filename="C:\\BACKUP\\PGM\\eWorkSpace\\WorkItOut v2.3\\.\\source\\WorkItOutView.mc" lineNum="73" pc="268435628" symbol="stopRecording"/>
+<entry filename="C:\\BACKUP\\PGM\\eWorkSpace\\WorkItOut v2.3\\.\\source\\WorkItOutView.mc" lineNum="76" pc="268435649" symbol="stopRecording"/>
+<entry filename="C:\\BACKUP\\PGM\\eWorkSpace\\WorkItOut v2.3\\.\\source\\WorkItOutView.mc" lineNum="78" pc="268435667" symbol="stopRecording"/>
+<entry filename="C:\\BACKUP\\PGM\\eWorkSpace\\WorkItOut v2.3\\.\\source\\WorkItOutView.mc" lineNum="123" pc="268435683" symbol="initialize"/>
+<entry filename="C:\\BACKUP\\PGM\\eWorkSpace\\WorkItOut v2.3\\.\\source\\WorkItOutView.mc" lineNum="125" pc="268435687" symbol="initialize"/>
+<entry filename="C:\\BACKUP\\PGM\\eWorkSpace\\WorkItOut v2.3\\.\\source\\WorkItOutView.mc" lineNum="127" pc="268435705" symbol="initialize"/>
+<entry filename="C:\\BACKUP\\PGM\\eWorkSpace\\WorkItOut v2.3\\.\\source\\WorkItOutView.mc" lineNum="128" pc="268435722" symbol="initialize"/>
+<entry filename="C:\\BACKUP\\PGM\\eWorkSpace\\WorkItOut v2.3\\.\\source\\WorkItOutView.mc" lineNum="129" pc="268435746" symbol="initialize"/>
+<entry filename="C:\\BACKUP\\PGM\\eWorkSpace\\WorkItOut v2.3\\.\\source\\WorkItOutView.mc" lineNum="131" pc="268435785" symbol="initialize"/>
+<entry filename="C:\\BACKUP\\PGM\\eWorkSpace\\WorkItOut v2.3\\.\\source\\WorkItOutView.mc" lineNum="132" pc="268435809" symbol="initialize"/>
+<entry filename="C:\\BACKUP\\PGM\\eWorkSpace\\WorkItOut v2.3\\.\\source\\WorkItOutView.mc" lineNum="133" pc="268435833" symbol="initialize"/>
+<entry filename="C:\\BACKUP\\PGM\\eWorkSpace\\WorkItOut v2.3\\.\\source\\WorkItOutView.mc" lineNum="134" pc="268435868" symbol="initialize"/>
+<entry filename="C:\\BACKUP\\PGM\\eWorkSpace\\WorkItOut v2.3\\.\\source\\WorkItOutView.mc" lineNum="135" pc="268435903" symbol="initialize"/>
+<entry filename="C:\\BACKUP\\PGM\\eWorkSpace\\WorkItOut v2.3\\.\\source\\WorkItOutView.mc" lineNum="136" pc="268435938" symbol="initialize"/>
+<entry filename="C:\\BACKUP\\PGM\\eWorkSpace\\WorkItOut v2.3\\.\\source\\WorkItOutView.mc" lineNum="138" pc="268435973" symbol="initialize"/>
+<entry filename="C:\\BACKUP\\PGM\\eWorkSpace\\WorkItOut v2.3\\.\\source\\WorkItOutView.mc" lineNum="139" pc="268435998" symbol="initialize"/>
+<entry filename="C:\\BACKUP\\PGM\\eWorkSpace\\WorkItOut v2.3\\.\\source\\WorkItOutView.mc" lineNum="140" pc="268436023" symbol="initialize"/>
+<entry filename="C:\\BACKUP\\PGM\\eWorkSpace\\WorkItOut v2.3\\.\\source\\WorkItOutView.mc" lineNum="142" pc="268436048" symbol="initialize"/>
+<entry filename="C:\\BACKUP\\PGM\\eWorkSpace\\WorkItOut v2.3\\.\\source\\WorkItOutView.mc" lineNum="143" pc="268436066" symbol="initialize"/>
+<entry filename="C:\\BACKUP\\PGM\\eWorkSpace\\WorkItOut v2.3\\.\\source\\WorkItOutView.mc" lineNum="149" pc="268436132" symbol="initialize"/>
+<entry filename="C:\\BACKUP\\PGM\\eWorkSpace\\WorkItOut v2.3\\.\\source\\WorkItOutView.mc" lineNum="150" pc="268436145" symbol="initialize"/>
+<entry filename="C:\\BACKUP\\PGM\\eWorkSpace\\WorkItOut v2.3\\.\\source\\WorkItOutView.mc" lineNum="153" pc="268436158" symbol="initialize"/>
+<entry filename="C:\\BACKUP\\PGM\\eWorkSpace\\WorkItOut v2.3\\.\\source\\WorkItOutView.mc" lineNum="154" pc="268436171" symbol="initialize"/>
+<entry filename="C:\\BACKUP\\PGM\\eWorkSpace\\WorkItOut v2.3\\.\\source\\WorkItOutView.mc" lineNum="155" pc="268436184" symbol="initialize"/>
+<entry filename="C:\\BACKUP\\PGM\\eWorkSpace\\WorkItOut v2.3\\.\\source\\WorkItOutView.mc" lineNum="157" pc="268436194" symbol="initialize"/>
+<entry filename="C:\\BACKUP\\PGM\\eWorkSpace\\WorkItOut v2.3\\.\\source\\WorkItOutView.mc" lineNum="158" pc="268436229" symbol="initialize"/>
+<entry filename="C:\\BACKUP\\PGM\\eWorkSpace\\WorkItOut v2.3\\.\\source\\WorkItOutView.mc" lineNum="160" pc="268436242" symbol="initialize"/>
+<entry filename="C:\\BACKUP\\PGM\\eWorkSpace\\WorkItOut v2.3\\.\\source\\WorkItOutView.mc" lineNum="162" pc="268436284" symbol="initialize"/>
+<entry filename="C:\\BACKUP\\PGM\\eWorkSpace\\WorkItOut v2.3\\.\\source\\WorkItOutView.mc" lineNum="165" pc="268436316" symbol="initialize"/>
+<entry filename="C:\\BACKUP\\PGM\\eWorkSpace\\WorkItOut v2.3\\.\\source\\WorkItOutView.mc" lineNum="166" pc="268436339" symbol="initialize"/>
+<entry filename="C:\\BACKUP\\PGM\\eWorkSpace\\WorkItOut v2.3\\.\\source\\WorkItOutView.mc" lineNum="167" pc="268436362" symbol="initialize"/>
+<entry filename="C:\\BACKUP\\PGM\\eWorkSpace\\WorkItOut v2.3\\.\\source\\WorkItOutView.mc" lineNum="170" pc="268436395" symbol="initialize"/>
+<entry filename="C:\\BACKUP\\PGM\\eWorkSpace\\WorkItOut v2.3\\.\\source\\WorkItOutView.mc" lineNum="172" pc="268436429" symbol="initialize"/>
+<entry filename="C:\\BACKUP\\PGM\\eWorkSpace\\WorkItOut v2.3\\.\\source\\WorkItOutView.mc" lineNum="174" pc="268436468" symbol="initialize"/>
+<entry filename="C:\\BACKUP\\PGM\\eWorkSpace\\WorkItOut v2.3\\.\\source\\WorkItOutView.mc" lineNum="175" pc="268436552" symbol="initialize"/>
+<entry filename="C:\\BACKUP\\PGM\\eWorkSpace\\WorkItOut v2.3\\.\\source\\WorkItOutView.mc" lineNum="181" pc="268436577" symbol="onSnsr"/>
+<entry filename="C:\\BACKUP\\PGM\\eWorkSpace\\WorkItOut v2.3\\.\\source\\WorkItOutView.mc" lineNum="183" pc="268436581" symbol="onSnsr"/>
+<entry filename="C:\\BACKUP\\PGM\\eWorkSpace\\WorkItOut v2.3\\.\\source\\WorkItOutView.mc" lineNum="185" pc="268436591" symbol="onSnsr"/>
+<entry filename="C:\\BACKUP\\PGM\\eWorkSpace\\WorkItOut v2.3\\.\\source\\WorkItOutView.mc" lineNum="186" pc="268436591" symbol="onSnsr"/>
+<entry filename="C:\\BACKUP\\PGM\\eWorkSpace\\WorkItOut v2.3\\.\\source\\WorkItOutView.mc" lineNum="188" pc="268436604" symbol="onSnsr"/>
+<entry filename="C:\\BACKUP\\PGM\\eWorkSpace\\WorkItOut v2.3\\.\\source\\WorkItOutView.mc" lineNum="189" pc="268436623" symbol="onSnsr"/>
+<entry filename="C:\\BACKUP\\PGM\\eWorkSpace\\WorkItOut v2.3\\.\\source\\WorkItOutView.mc" lineNum="195" pc="268436645" symbol="onSnsr"/>
+<entry filename="C:\\BACKUP\\PGM\\eWorkSpace\\WorkItOut v2.3\\.\\source\\WorkItOutView.mc" lineNum="196" pc="268436658" symbol="onSnsr"/>
+<entry filename="C:\\BACKUP\\PGM\\eWorkSpace\\WorkItOut v2.3\\.\\source\\WorkItOutView.mc" lineNum="197" pc="268436671" symbol="onSnsr"/>
+<entry filename="C:\\BACKUP\\PGM\\eWorkSpace\\WorkItOut v2.3\\.\\source\\WorkItOutView.mc" lineNum="199" pc="268436681" symbol="onSnsr"/>
+<entry filename="C:\\BACKUP\\PGM\\eWorkSpace\\WorkItOut v2.3\\.\\source\\WorkItOutView.mc" lineNum="203" pc="268436698" symbol="timerCallback"/>
+<entry filename="C:\\BACKUP\\PGM\\eWorkSpace\\WorkItOut v2.3\\.\\source\\WorkItOutView.mc" lineNum="205" pc="268436702" symbol="timerCallback"/>
+<entry filename="C:\\BACKUP\\PGM\\eWorkSpace\\WorkItOut v2.3\\.\\source\\WorkItOutView.mc" lineNum="206" pc="268436721" symbol="timerCallback"/>
+<entry filename="C:\\BACKUP\\PGM\\eWorkSpace\\WorkItOut v2.3\\.\\source\\WorkItOutView.mc" lineNum="210" pc="268436738" symbol="onLayout"/>
+<entry filename="C:\\BACKUP\\PGM\\eWorkSpace\\WorkItOut v2.3\\.\\source\\WorkItOutView.mc" lineNum="213" pc="268436742" symbol="onLayout"/>
+<entry filename="C:\\BACKUP\\PGM\\eWorkSpace\\WorkItOut v2.3\\.\\source\\WorkItOutView.mc" lineNum="214" pc="268436773" symbol="onLayout"/>
+<entry filename="C:\\BACKUP\\PGM\\eWorkSpace\\WorkItOut v2.3\\.\\source\\WorkItOutView.mc" lineNum="215" pc="268436804" symbol="onLayout"/>
+<entry filename="C:\\BACKUP\\PGM\\eWorkSpace\\WorkItOut v2.3\\.\\source\\WorkItOutView.mc" lineNum="218" pc="268436835" symbol="onLayout"/>
+<entry filename="C:\\BACKUP\\PGM\\eWorkSpace\\WorkItOut v2.3\\.\\source\\WorkItOutView.mc" lineNum="221" pc="268436869" symbol="onLayout"/>
+<entry filename="C:\\BACKUP\\PGM\\eWorkSpace\\WorkItOut v2.3\\.\\source\\WorkItOutView.mc" lineNum="229" pc="268436911" symbol="onShow"/>
+<entry filename="C:\\BACKUP\\PGM\\eWorkSpace\\WorkItOut v2.3\\.\\source\\WorkItOutView.mc" lineNum="232" pc="268436915" symbol="onShow"/>
+<entry filename="C:\\BACKUP\\PGM\\eWorkSpace\\WorkItOut v2.3\\.\\source\\WorkItOutView.mc" lineNum="234" pc="268436935" symbol="onShow"/>
+<entry filename="C:\\BACKUP\\PGM\\eWorkSpace\\WorkItOut v2.3\\.\\source\\WorkItOutView.mc" lineNum="237" pc="268436966" symbol="onShow"/>
+<entry filename="C:\\BACKUP\\PGM\\eWorkSpace\\WorkItOut v2.3\\.\\source\\WorkItOutView.mc" lineNum="242" pc="268437008" symbol="onUpdate"/>
+<entry filename="C:\\BACKUP\\PGM\\eWorkSpace\\WorkItOut v2.3\\.\\source\\WorkItOutView.mc" lineNum="246" pc="268437012" symbol="onUpdate"/>
+<entry filename="C:\\BACKUP\\PGM\\eWorkSpace\\WorkItOut v2.3\\.\\source\\WorkItOutView.mc" lineNum="247" pc="268437025" symbol="onUpdate"/>
+<entry filename="C:\\BACKUP\\PGM\\eWorkSpace\\WorkItOut v2.3\\.\\source\\WorkItOutView.mc" lineNum="261" pc="268437038" symbol="onUpdate"/>
+<entry filename="C:\\BACKUP\\PGM\\eWorkSpace\\WorkItOut v2.3\\.\\source\\WorkItOutView.mc" lineNum="262" pc="268437045" symbol="onUpdate"/>
+<entry filename="C:\\BACKUP\\PGM\\eWorkSpace\\WorkItOut v2.3\\.\\source\\WorkItOutView.mc" lineNum="263" pc="268437064" symbol="onUpdate"/>
+<entry filename="C:\\BACKUP\\PGM\\eWorkSpace\\WorkItOut v2.3\\.\\source\\WorkItOutView.mc" lineNum="264" pc="268437071" symbol="onUpdate"/>
+<entry filename="C:\\BACKUP\\PGM\\eWorkSpace\\WorkItOut v2.3\\.\\source\\WorkItOutView.mc" lineNum="268" pc="268437093" symbol="onUpdate"/>
+<entry filename="C:\\BACKUP\\PGM\\eWorkSpace\\WorkItOut v2.3\\.\\source\\WorkItOutView.mc" lineNum="269" pc="268437121" symbol="onUpdate"/>
+<entry filename="C:\\BACKUP\\PGM\\eWorkSpace\\WorkItOut v2.3\\.\\source\\WorkItOutView.mc" lineNum="270" pc="268437134" symbol="onUpdate"/>
+<entry filename="C:\\BACKUP\\PGM\\eWorkSpace\\WorkItOut v2.3\\.\\source\\WorkItOutView.mc" lineNum="271" pc="268437138" symbol="onUpdate"/>
+<entry filename="C:\\BACKUP\\PGM\\eWorkSpace\\WorkItOut v2.3\\.\\source\\WorkItOutView.mc" lineNum="272" pc="268437148" symbol="onUpdate"/>
+<entry filename="C:\\BACKUP\\PGM\\eWorkSpace\\WorkItOut v2.3\\.\\source\\WorkItOutView.mc" lineNum="273" pc="268437164" symbol="onUpdate"/>
+<entry filename="C:\\BACKUP\\PGM\\eWorkSpace\\WorkItOut v2.3\\.\\source\\WorkItOutView.mc" lineNum="274" pc="268437180" symbol="onUpdate"/>
+<entry filename="C:\\BACKUP\\PGM\\eWorkSpace\\WorkItOut v2.3\\.\\source\\WorkItOutView.mc" lineNum="275" pc="268437190" symbol="onUpdate"/>
+<entry filename="C:\\BACKUP\\PGM\\eWorkSpace\\WorkItOut v2.3\\.\\source\\WorkItOutView.mc" lineNum="278" pc="268437215" symbol="onUpdate"/>
+<entry filename="C:\\BACKUP\\PGM\\eWorkSpace\\WorkItOut v2.3\\.\\source\\WorkItOutView.mc" lineNum="279" pc="268437251" symbol="onUpdate"/>
+<entry filename="C:\\BACKUP\\PGM\\eWorkSpace\\WorkItOut v2.3\\.\\source\\WorkItOutView.mc" lineNum="286" pc="268437263" symbol="onUpdate"/>
+<entry filename="C:\\BACKUP\\PGM\\eWorkSpace\\WorkItOut v2.3\\.\\source\\WorkItOutView.mc" lineNum="287" pc="268437280" symbol="onUpdate"/>
+<entry filename="C:\\BACKUP\\PGM\\eWorkSpace\\WorkItOut v2.3\\.\\source\\WorkItOutView.mc" lineNum="289" pc="268437309" symbol="onUpdate"/>
+<entry filename="C:\\BACKUP\\PGM\\eWorkSpace\\WorkItOut v2.3\\.\\source\\WorkItOutView.mc" lineNum="293" pc="268437390" symbol="onUpdate"/>
+<entry filename="C:\\BACKUP\\PGM\\eWorkSpace\\WorkItOut v2.3\\.\\source\\WorkItOutView.mc" lineNum="294" pc="268437409" symbol="onUpdate"/>
+<entry filename="C:\\BACKUP\\PGM\\eWorkSpace\\WorkItOut v2.3\\.\\source\\WorkItOutView.mc" lineNum="295" pc="268437428" symbol="onUpdate"/>
+<entry filename="C:\\BACKUP\\PGM\\eWorkSpace\\WorkItOut v2.3\\.\\source\\WorkItOutView.mc" lineNum="296" pc="268437464" symbol="onUpdate"/>
+<entry filename="C:\\BACKUP\\PGM\\eWorkSpace\\WorkItOut v2.3\\.\\source\\WorkItOutView.mc" lineNum="298" pc="268437512" symbol="onUpdate"/>
+<entry filename="C:\\BACKUP\\PGM\\eWorkSpace\\WorkItOut v2.3\\.\\source\\WorkItOutView.mc" lineNum="299" pc="268437548" symbol="onUpdate"/>
+<entry filename="C:\\BACKUP\\PGM\\eWorkSpace\\WorkItOut v2.3\\.\\source\\WorkItOutView.mc" lineNum="302" pc="268437611" symbol="onUpdate"/>
+<entry filename="C:\\BACKUP\\PGM\\eWorkSpace\\WorkItOut v2.3\\.\\source\\WorkItOutView.mc" lineNum="303" pc="268437647" symbol="onUpdate"/>
+<entry filename="C:\\BACKUP\\PGM\\eWorkSpace\\WorkItOut v2.3\\.\\source\\WorkItOutView.mc" lineNum="306" pc="268437670" symbol="onUpdate"/>
+<entry filename="C:\\BACKUP\\PGM\\eWorkSpace\\WorkItOut v2.3\\.\\source\\WorkItOutView.mc" lineNum="307" pc="268437681" symbol="onUpdate"/>
+<entry filename="C:\\BACKUP\\PGM\\eWorkSpace\\WorkItOut v2.3\\.\\source\\WorkItOutView.mc" lineNum="308" pc="268437691" symbol="onUpdate"/>
+<entry filename="C:\\BACKUP\\PGM\\eWorkSpace\\WorkItOut v2.3\\.\\source\\WorkItOutView.mc" lineNum="309" pc="268437698" symbol="onUpdate"/>
+<entry filename="C:\\BACKUP\\PGM\\eWorkSpace\\WorkItOut v2.3\\.\\source\\WorkItOutView.mc" lineNum="310" pc="268437708" symbol="onUpdate"/>
+<entry filename="C:\\BACKUP\\PGM\\eWorkSpace\\WorkItOut v2.3\\.\\source\\WorkItOutView.mc" lineNum="311" pc="268437721" symbol="onUpdate"/>
+<entry filename="C:\\BACKUP\\PGM\\eWorkSpace\\WorkItOut v2.3\\.\\source\\WorkItOutView.mc" lineNum="313" pc="268437757" symbol="onUpdate"/>
+<entry filename="C:\\BACKUP\\PGM\\eWorkSpace\\WorkItOut v2.3\\.\\source\\WorkItOutView.mc" lineNum="314" pc="268438165" symbol="onUpdate"/>
+<entry filename="C:\\BACKUP\\PGM\\eWorkSpace\\WorkItOut v2.3\\.\\source\\WorkItOutView.mc" lineNum="315" pc="268438179" symbol="onUpdate"/>
+<entry filename="C:\\BACKUP\\PGM\\eWorkSpace\\WorkItOut v2.3\\.\\source\\WorkItOutView.mc" lineNum="316" pc="268438203" symbol="onUpdate"/>
+<entry filename="C:\\BACKUP\\PGM\\eWorkSpace\\WorkItOut v2.3\\.\\source\\WorkItOutView.mc" lineNum="318" pc="268438277" symbol="onUpdate"/>
+<entry filename="C:\\BACKUP\\PGM\\eWorkSpace\\WorkItOut v2.3\\.\\source\\WorkItOutView.mc" lineNum="320" pc="268438294" symbol="onUpdate"/>
+<entry filename="C:\\BACKUP\\PGM\\eWorkSpace\\WorkItOut v2.3\\.\\source\\WorkItOutView.mc" lineNum="325" pc="268438304" symbol="onUpdate"/>
+<entry filename="C:\\BACKUP\\PGM\\eWorkSpace\\WorkItOut v2.3\\.\\source\\WorkItOutView.mc" lineNum="326" pc="268438318" symbol="onUpdate"/>
+<entry filename="C:\\BACKUP\\PGM\\eWorkSpace\\WorkItOut v2.3\\.\\source\\WorkItOutView.mc" lineNum="327" pc="268438354" symbol="onUpdate"/>
+<entry filename="C:\\BACKUP\\PGM\\eWorkSpace\\WorkItOut v2.3\\.\\source\\WorkItOutView.mc" lineNum="328" pc="268438379" symbol="onUpdate"/>
+<entry filename="C:\\BACKUP\\PGM\\eWorkSpace\\WorkItOut v2.3\\.\\source\\WorkItOutView.mc" lineNum="330" pc="268438446" symbol="onUpdate"/>
+<entry filename="C:\\BACKUP\\PGM\\eWorkSpace\\WorkItOut v2.3\\.\\source\\WorkItOutView.mc" lineNum="331" pc="268438482" symbol="onUpdate"/>
+<entry filename="C:\\BACKUP\\PGM\\eWorkSpace\\WorkItOut v2.3\\.\\source\\WorkItOutView.mc" lineNum="333" pc="268438552" symbol="onUpdate"/>
+<entry filename="C:\\BACKUP\\PGM\\eWorkSpace\\WorkItOut v2.3\\.\\source\\WorkItOutView.mc" lineNum="334" pc="268438588" symbol="onUpdate"/>
+<entry filename="C:\\BACKUP\\PGM\\eWorkSpace\\WorkItOut v2.3\\.\\source\\WorkItOutView.mc" lineNum="339" pc="268438661" symbol="onUpdate"/>
+<entry filename="C:\\BACKUP\\PGM\\eWorkSpace\\WorkItOut v2.3\\.\\source\\WorkItOutView.mc" lineNum="340" pc="268438678" symbol="onUpdate"/>
+<entry filename="C:\\BACKUP\\PGM\\eWorkSpace\\WorkItOut v2.3\\.\\source\\WorkItOutView.mc" lineNum="341" pc="268438699" symbol="onUpdate"/>
+<entry filename="C:\\BACKUP\\PGM\\eWorkSpace\\WorkItOut v2.3\\.\\source\\WorkItOutView.mc" lineNum="342" pc="268438720" symbol="onUpdate"/>
+<entry filename="C:\\BACKUP\\PGM\\eWorkSpace\\WorkItOut v2.3\\.\\source\\WorkItOutView.mc" lineNum="343" pc="268438733" symbol="onUpdate"/>
+<entry filename="C:\\BACKUP\\PGM\\eWorkSpace\\WorkItOut v2.3\\.\\source\\WorkItOutView.mc" lineNum="344" pc="268438746" symbol="onUpdate"/>
+<entry filename="C:\\BACKUP\\PGM\\eWorkSpace\\WorkItOut v2.3\\.\\source\\WorkItOutView.mc" lineNum="345" pc="268438746" symbol="onUpdate"/>
+<entry filename="C:\\BACKUP\\PGM\\eWorkSpace\\WorkItOut v2.3\\.\\source\\WorkItOutView.mc" lineNum="346" pc="268438746" symbol="onUpdate"/>
+<entry filename="C:\\BACKUP\\PGM\\eWorkSpace\\WorkItOut v2.3\\.\\source\\WorkItOutView.mc" lineNum="348" pc="268438757" symbol="onUpdate"/>
+<entry filename="C:\\BACKUP\\PGM\\eWorkSpace\\WorkItOut v2.3\\.\\source\\WorkItOutView.mc" lineNum="349" pc="268438764" symbol="onUpdate"/>
+<entry filename="C:\\BACKUP\\PGM\\eWorkSpace\\WorkItOut v2.3\\.\\source\\WorkItOutView.mc" lineNum="350" pc="268438771" symbol="onUpdate"/>
+<entry filename="C:\\BACKUP\\PGM\\eWorkSpace\\WorkItOut v2.3\\.\\source\\WorkItOutView.mc" lineNum="353" pc="268438781" symbol="onUpdate"/>
+<entry filename="C:\\BACKUP\\PGM\\eWorkSpace\\WorkItOut v2.3\\.\\source\\WorkItOutView.mc" lineNum="354" pc="268438803" symbol="onUpdate"/>
+<entry filename="C:\\BACKUP\\PGM\\eWorkSpace\\WorkItOut v2.3\\.\\source\\WorkItOutView.mc" lineNum="357" pc="268438816" symbol="onUpdate"/>
+<entry filename="C:\\BACKUP\\PGM\\eWorkSpace\\WorkItOut v2.3\\.\\source\\WorkItOutView.mc" lineNum="358" pc="268438826" symbol="onUpdate"/>
+<entry filename="C:\\BACKUP\\PGM\\eWorkSpace\\WorkItOut v2.3\\.\\source\\WorkItOutView.mc" lineNum="359" pc="268438836" symbol="onUpdate"/>
+<entry filename="C:\\BACKUP\\PGM\\eWorkSpace\\WorkItOut v2.3\\.\\source\\WorkItOutView.mc" lineNum="360" pc="268438855" symbol="onUpdate"/>
+<entry filename="C:\\BACKUP\\PGM\\eWorkSpace\\WorkItOut v2.3\\.\\source\\WorkItOutView.mc" lineNum="370" pc="268438874" symbol="onUpdate"/>
+<entry filename="C:\\BACKUP\\PGM\\eWorkSpace\\WorkItOut v2.3\\.\\source\\WorkItOutView.mc" lineNum="371" pc="268438893" symbol="onUpdate"/>
+<entry filename="C:\\BACKUP\\PGM\\eWorkSpace\\WorkItOut v2.3\\.\\source\\WorkItOutView.mc" lineNum="373" pc="268438904" symbol="onUpdate"/>
+<entry filename="C:\\BACKUP\\PGM\\eWorkSpace\\WorkItOut v2.3\\.\\source\\WorkItOutView.mc" lineNum="375" pc="268438914" symbol="onUpdate"/>
+<entry filename="C:\\BACKUP\\PGM\\eWorkSpace\\WorkItOut v2.3\\.\\source\\WorkItOutView.mc" lineNum="376" pc="268438928" symbol="onUpdate"/>
+<entry filename="C:\\BACKUP\\PGM\\eWorkSpace\\WorkItOut v2.3\\.\\source\\WorkItOutView.mc" lineNum="377" pc="268438964" symbol="onUpdate"/>
+<entry filename="C:\\BACKUP\\PGM\\eWorkSpace\\WorkItOut v2.3\\.\\source\\WorkItOutView.mc" lineNum="379" pc="268439031" symbol="onUpdate"/>
+<entry filename="C:\\BACKUP\\PGM\\eWorkSpace\\WorkItOut v2.3\\.\\source\\WorkItOutView.mc" lineNum="380" pc="268439067" symbol="onUpdate"/>
+<entry filename="C:\\BACKUP\\PGM\\eWorkSpace\\WorkItOut v2.3\\.\\source\\WorkItOutView.mc" lineNum="385" pc="268439134" symbol="onUpdate"/>
+<entry filename="C:\\BACKUP\\PGM\\eWorkSpace\\WorkItOut v2.3\\.\\source\\WorkItOutView.mc" lineNum="386" pc="268439153" symbol="onUpdate"/>
+<entry filename="C:\\BACKUP\\PGM\\eWorkSpace\\WorkItOut v2.3\\.\\source\\WorkItOutView.mc" lineNum="387" pc="268439173" symbol="onUpdate"/>
+<entry filename="C:\\BACKUP\\PGM\\eWorkSpace\\WorkItOut v2.3\\.\\source\\WorkItOutView.mc" lineNum="388" pc="268439209" symbol="onUpdate"/>
+<entry filename="C:\\BACKUP\\PGM\\eWorkSpace\\WorkItOut v2.3\\.\\source\\WorkItOutView.mc" lineNum="390" pc="268439285" symbol="onUpdate"/>
+<entry filename="C:\\BACKUP\\PGM\\eWorkSpace\\WorkItOut v2.3\\.\\source\\WorkItOutView.mc" lineNum="391" pc="268439321" symbol="onUpdate"/>
+<entry filename="C:\\BACKUP\\PGM\\eWorkSpace\\WorkItOut v2.3\\.\\source\\WorkItOutView.mc" lineNum="394" pc="268439397" symbol="onUpdate"/>
+<entry filename="C:\\BACKUP\\PGM\\eWorkSpace\\WorkItOut v2.3\\.\\source\\WorkItOutView.mc" lineNum="395" pc="268439433" symbol="onUpdate"/>
+<entry filename="C:\\BACKUP\\PGM\\eWorkSpace\\WorkItOut v2.3\\.\\source\\WorkItOutView.mc" lineNum="398" pc="268439564" symbol="onUpdate"/>
+<entry filename="C:\\BACKUP\\PGM\\eWorkSpace\\WorkItOut v2.3\\.\\source\\WorkItOutView.mc" lineNum="400" pc="268439578" symbol="onUpdate"/>
+<entry filename="C:\\BACKUP\\PGM\\eWorkSpace\\WorkItOut v2.3\\.\\source\\WorkItOutView.mc" lineNum="402" pc="268439592" symbol="onUpdate"/>
+<entry filename="C:\\BACKUP\\PGM\\eWorkSpace\\WorkItOut v2.3\\.\\source\\WorkItOutView.mc" lineNum="403" pc="268439606" symbol="onUpdate"/>
+<entry filename="C:\\BACKUP\\PGM\\eWorkSpace\\WorkItOut v2.3\\.\\source\\WorkItOutView.mc" lineNum="405" pc="268439633" symbol="onUpdate"/>
+<entry filename="C:\\BACKUP\\PGM\\eWorkSpace\\WorkItOut v2.3\\.\\source\\WorkItOutView.mc" lineNum="406" pc="268439647" symbol="onUpdate"/>
+<entry filename="C:\\BACKUP\\PGM\\eWorkSpace\\WorkItOut v2.3\\.\\source\\WorkItOutView.mc" lineNum="408" pc="268439674" symbol="onUpdate"/>
+<entry filename="C:\\BACKUP\\PGM\\eWorkSpace\\WorkItOut v2.3\\.\\source\\WorkItOutView.mc" lineNum="411" pc="268439685" symbol="onUpdate"/>
+<entry filename="C:\\BACKUP\\PGM\\eWorkSpace\\WorkItOut v2.3\\.\\source\\WorkItOutView.mc" lineNum="412" pc="268439699" symbol="onUpdate"/>
+<entry filename="C:\\BACKUP\\PGM\\eWorkSpace\\WorkItOut v2.3\\.\\source\\WorkItOutView.mc" lineNum="414" pc="268439726" symbol="onUpdate"/>
+<entry filename="C:\\BACKUP\\PGM\\eWorkSpace\\WorkItOut v2.3\\.\\source\\WorkItOutView.mc" lineNum="415" pc="268439740" symbol="onUpdate"/>
+<entry filename="C:\\BACKUP\\PGM\\eWorkSpace\\WorkItOut v2.3\\.\\source\\WorkItOutView.mc" lineNum="418" pc="268439767" symbol="onUpdate"/>
+<entry filename="C:\\BACKUP\\PGM\\eWorkSpace\\WorkItOut v2.3\\.\\source\\WorkItOutView.mc" lineNum="420" pc="268439778" symbol="onUpdate"/>
+<entry filename="C:\\BACKUP\\PGM\\eWorkSpace\\WorkItOut v2.3\\.\\source\\WorkItOutView.mc" lineNum="421" pc="268439792" symbol="onUpdate"/>
+<entry filename="C:\\BACKUP\\PGM\\eWorkSpace\\WorkItOut v2.3\\.\\source\\WorkItOutView.mc" lineNum="426" pc="268439825" symbol="onUpdate"/>
+<entry filename="C:\\BACKUP\\PGM\\eWorkSpace\\WorkItOut v2.3\\.\\source\\WorkItOutView.mc" lineNum="427" pc="268439847" symbol="onUpdate"/>
+<entry filename="C:\\BACKUP\\PGM\\eWorkSpace\\WorkItOut v2.3\\.\\source\\WorkItOutView.mc" lineNum="428" pc="268439869" symbol="onUpdate"/>
+<entry filename="C:\\BACKUP\\PGM\\eWorkSpace\\WorkItOut v2.3\\.\\source\\WorkItOutView.mc" lineNum="430" pc="268439879" symbol="onUpdate"/>
+<entry filename="C:\\BACKUP\\PGM\\eWorkSpace\\WorkItOut v2.3\\.\\source\\WorkItOutView.mc" lineNum="432" pc="268439893" symbol="onUpdate"/>
+<entry filename="C:\\BACKUP\\PGM\\eWorkSpace\\WorkItOut v2.3\\.\\source\\WorkItOutView.mc" lineNum="435" pc="268439903" symbol="onUpdate"/>
+<entry filename="C:\\BACKUP\\PGM\\eWorkSpace\\WorkItOut v2.3\\.\\source\\WorkItOutView.mc" lineNum="438" pc="268439917" symbol="onUpdate"/>
+<entry filename="C:\\BACKUP\\PGM\\eWorkSpace\\WorkItOut v2.3\\.\\source\\WorkItOutView.mc" lineNum="440" pc="268439931" symbol="onUpdate"/>
+<entry filename="C:\\BACKUP\\PGM\\eWorkSpace\\WorkItOut v2.3\\.\\source\\WorkItOutView.mc" lineNum="442" pc="268439967" symbol="onUpdate"/>
+<entry filename="C:\\BACKUP\\PGM\\eWorkSpace\\WorkItOut v2.3\\.\\source\\WorkItOutView.mc" lineNum="445" pc="268440084" symbol="onUpdate"/>
+<entry filename="C:\\BACKUP\\PGM\\eWorkSpace\\WorkItOut v2.3\\.\\source\\WorkItOutView.mc" lineNum="447" pc="268440107" symbol="onUpdate"/>
+<entry filename="C:\\BACKUP\\PGM\\eWorkSpace\\WorkItOut v2.3\\.\\source\\WorkItOutView.mc" lineNum="448" pc="268440143" symbol="onUpdate"/>
+<entry filename="C:\\BACKUP\\PGM\\eWorkSpace\\WorkItOut v2.3\\.\\source\\WorkItOutView.mc" lineNum="449" pc="268440194" symbol="onUpdate"/>
+<entry filename="C:\\BACKUP\\PGM\\eWorkSpace\\WorkItOut v2.3\\.\\source\\WorkItOutView.mc" lineNum="452" pc="268440230" symbol="onUpdate"/>
+<entry filename="C:\\BACKUP\\PGM\\eWorkSpace\\WorkItOut v2.3\\.\\source\\WorkItOutView.mc" lineNum="456" pc="268440362" symbol="onUpdate"/>
+<entry filename="C:\\BACKUP\\PGM\\eWorkSpace\\WorkItOut v2.3\\.\\source\\WorkItOutView.mc" lineNum="457" pc="268440398" symbol="onUpdate"/>
+<entry filename="C:\\BACKUP\\PGM\\eWorkSpace\\WorkItOut v2.3\\.\\source\\WorkItOutView.mc" lineNum="458" pc="268440449" symbol="onUpdate"/>
+<entry filename="C:\\BACKUP\\PGM\\eWorkSpace\\WorkItOut v2.3\\.\\source\\WorkItOutView.mc" lineNum="459" pc="268440485" symbol="onUpdate"/>
+<entry filename="C:\\BACKUP\\PGM\\eWorkSpace\\WorkItOut v2.3\\.\\source\\WorkItOutView.mc" lineNum="466" pc="268440548" symbol="onUpdate"/>
+<entry filename="C:\\BACKUP\\PGM\\eWorkSpace\\WorkItOut v2.3\\.\\source\\WorkItOutView.mc" lineNum="467" pc="268440584" symbol="onUpdate"/>
+<entry filename="C:\\BACKUP\\PGM\\eWorkSpace\\WorkItOut v2.3\\.\\source\\WorkItOutView.mc" lineNum="468" pc="268440635" symbol="onUpdate"/>
+<entry filename="C:\\BACKUP\\PGM\\eWorkSpace\\WorkItOut v2.3\\.\\source\\WorkItOutView.mc" lineNum="477" pc="268440696" symbol="onHide"/>
+<entry filename="C:\\BACKUP\\PGM\\eWorkSpace\\WorkItOut v2.3\\.\\source\\WorkItOutView.mc" lineNum="479" pc="268440700" symbol="onHide"/>
+<entry filename="C:\\BACKUP\\PGM\\eWorkSpace\\WorkItOut v2.3\\.\\source\\WorkItOutView.mc" lineNum="489" pc="268440719" symbol="initialize"/>
+<entry filename="C:\\BACKUP\\PGM\\eWorkSpace\\WorkItOut v2.3\\.\\source\\WorkItOutView.mc" lineNum="491" pc="268440723" symbol="initialize"/>
+<entry filename="C:\\BACKUP\\PGM\\eWorkSpace\\WorkItOut v2.3\\.\\source\\WorkItOutView.mc" lineNum="495" pc="268440742" symbol="onKey"/>
+<entry filename="C:\\BACKUP\\PGM\\eWorkSpace\\WorkItOut v2.3\\.\\source\\WorkItOutView.mc" lineNum="497" pc="268440746" symbol="onKey"/>
+<entry filename="C:\\BACKUP\\PGM\\eWorkSpace\\WorkItOut v2.3\\.\\source\\WorkItOutView.mc" lineNum="498" pc="268440759" symbol="onKey"/>
+<entry filename="C:\\BACKUP\\PGM\\eWorkSpace\\WorkItOut v2.3\\.\\source\\WorkItOutView.mc" lineNum="501" pc="268440773" symbol="onKey"/>
+<entry filename="C:\\BACKUP\\PGM\\eWorkSpace\\WorkItOut v2.3\\.\\source\\WorkItOutView.mc" lineNum="502" pc="268440790" symbol="onKey"/>
+<entry filename="C:\\BACKUP\\PGM\\eWorkSpace\\WorkItOut v2.3\\.\\source\\WorkItOutView.mc" lineNum="503" pc="268440813" symbol="onKey"/>
+<entry filename="C:\\BACKUP\\PGM\\eWorkSpace\\WorkItOut v2.3\\.\\source\\WorkItOutView.mc" lineNum="504" pc="268440900" symbol="onKey"/>
+<entry filename="C:\\BACKUP\\PGM\\eWorkSpace\\WorkItOut v2.3\\.\\source\\WorkItOutView.mc" lineNum="507" pc="268440914" symbol="onKey"/>
+<entry filename="C:\\BACKUP\\PGM\\eWorkSpace\\WorkItOut v2.3\\.\\source\\WorkItOutView.mc" lineNum="508" pc="268440931" symbol="onKey"/>
+<entry filename="C:\\BACKUP\\PGM\\eWorkSpace\\WorkItOut v2.3\\.\\source\\WorkItOutView.mc" lineNum="509" pc="268440954" symbol="onKey"/>
+<entry filename="C:\\BACKUP\\PGM\\eWorkSpace\\WorkItOut v2.3\\.\\source\\WorkItOutView.mc" lineNum="510" pc="268441038" symbol="onKey"/>
+<entry filename="C:\\BACKUP\\PGM\\eWorkSpace\\WorkItOut v2.3\\.\\source\\WorkItOutView.mc" lineNum="512" pc="268441058" symbol="onKey"/>
+<entry filename="C:\\BACKUP\\PGM\\eWorkSpace\\WorkItOut v2.3\\.\\source\\WorkItOutView.mc" lineNum="513" pc="268441074" symbol="onKey"/>
+<entry filename="C:\\BACKUP\\PGM\\eWorkSpace\\WorkItOut v2.3\\.\\source\\WorkItOutView.mc" lineNum="517" pc="268441094" symbol="onKey"/>
+<entry filename="C:\\BACKUP\\PGM\\eWorkSpace\\WorkItOut v2.3\\.\\source\\WorkItOutView.mc" lineNum="518" pc="268441104" symbol="onKey"/>
+<entry filename="C:\\BACKUP\\PGM\\eWorkSpace\\WorkItOut v2.3\\.\\source\\WorkItOutView.mc" lineNum="519" pc="268441107" symbol="onKey"/>
+<entry filename="C:\\BACKUP\\PGM\\eWorkSpace\\WorkItOut v2.3\\.\\source\\WorkItOutView.mc" lineNum="528" pc="268441124" symbol="initialize"/>
+<entry filename="C:\\BACKUP\\PGM\\eWorkSpace\\WorkItOut v2.3\\.\\source\\WorkItOutView.mc" lineNum="530" pc="268441128" symbol="initialize"/>
+<entry filename="C:\\BACKUP\\PGM\\eWorkSpace\\WorkItOut v2.3\\.\\source\\WorkItOutView.mc" lineNum="534" pc="268441147" symbol="onMenuItem"/>
+<entry filename="C:\\BACKUP\\PGM\\eWorkSpace\\WorkItOut v2.3\\.\\source\\WorkItOutView.mc" lineNum="537" pc="268441151" symbol="onMenuItem"/>
+<entry filename="C:\\BACKUP\\PGM\\eWorkSpace\\WorkItOut v2.3\\.\\source\\WorkItOutView.mc" lineNum="540" pc="268441162" symbol="onMenuItem"/>
+<entry filename="C:\\BACKUP\\PGM\\eWorkSpace\\WorkItOut v2.3\\.\\source\\WorkItOutView.mc" lineNum="541" pc="268441178" symbol="onMenuItem"/>
+<entry filename="C:\\BACKUP\\PGM\\eWorkSpace\\WorkItOut v2.3\\.\\source\\WorkItOutView.mc" lineNum="542" pc="268441195" symbol="onMenuItem"/>
+<entry filename="C:\\BACKUP\\PGM\\eWorkSpace\\WorkItOut v2.3\\.\\source\\WorkItOutView.mc" lineNum="544" pc="268441208" symbol="onMenuItem"/>
+<entry filename="C:\\BACKUP\\PGM\\eWorkSpace\\WorkItOut v2.3\\.\\source\\WorkItOutView.mc" lineNum="548" pc="268441258" symbol="onMenuItem"/>
+<entry filename="C:\\BACKUP\\PGM\\eWorkSpace\\WorkItOut v2.3\\.\\source\\WorkItOutView.mc" lineNum="550" pc="268441269" symbol="onMenuItem"/>
+<entry filename="C:\\BACKUP\\PGM\\eWorkSpace\\WorkItOut v2.3\\.\\source\\WorkItOutView.mc" lineNum="551" pc="268441283" symbol="onMenuItem"/>
+<entry filename="C:\\BACKUP\\PGM\\eWorkSpace\\WorkItOut v2.3\\.\\source\\WorkItOutView.mc" lineNum="552" pc="268441299" symbol="onMenuItem"/>
+<entry filename="C:\\BACKUP\\PGM\\eWorkSpace\\WorkItOut v2.3\\.\\source\\WorkItOutView.mc" lineNum="554" pc="268441318" symbol="onMenuItem"/>
+<entry filename="C:\\BACKUP\\PGM\\eWorkSpace\\WorkItOut v2.3\\.\\source\\WorkItOutView.mc" lineNum="556" pc="268441329" symbol="onMenuItem"/>
+<entry filename="C:\\BACKUP\\PGM\\eWorkSpace\\WorkItOut v2.3\\.\\source\\WorkItOutView.mc" lineNum="557" pc="268441343" symbol="onMenuItem"/>
+<entry filename="C:\\BACKUP\\PGM\\eWorkSpace\\WorkItOut v2.3\\.\\source\\WorkItOutView.mc" lineNum="558" pc="268441359" symbol="onMenuItem"/>
+<entry filename="C:\\BACKUP\\PGM\\eWorkSpace\\WorkItOut v2.3\\.\\source\\WorkItOutView.mc" lineNum="563" pc="268441379" symbol="convertDeg2ArcDeg"/>
+<entry filename="C:\\BACKUP\\PGM\\eWorkSpace\\WorkItOut v2.3\\.\\source\\WorkItOutView.mc" lineNum="567" pc="268441391" symbol="convertDeg2ArcDeg"/>
+<entry filename="C:\\BACKUP\\PGM\\eWorkSpace\\WorkItOut v2.3\\.\\source\\WorkItOutView.mc" lineNum="568" pc="268441391" symbol="convertDeg2ArcDeg"/>
+<entry filename="C:\\BACKUP\\PGM\\eWorkSpace\\WorkItOut v2.3\\.\\source\\WorkItOutView.mc" lineNum="569" pc="268441402" symbol="convertDeg2ArcDeg"/>
+<entry filename="C:\\BACKUP\\PGM\\eWorkSpace\\WorkItOut v2.3\\.\\source\\WorkItOutView.mc" lineNum="572" pc="268441415" symbol="convertDeg2ArcDeg"/>
+<entry filename="C:\\BACKUP\\PGM\\eWorkSpace\\WorkItOut v2.3\\.\\source\\WorkItOutView.mc" lineNum="574" pc="268441425" symbol="convertDeg2ArcDeg"/>
+<entry filename="C:\\BACKUP\\PGM\\eWorkSpace\\WorkItOut v2.3\\.\\source\\WorkItOutView.mc" lineNum="577" pc="268441429" symbol="checkpropertyString"/>
+<entry filename="C:\\BACKUP\\PGM\\eWorkSpace\\WorkItOut v2.3\\.\\source\\WorkItOutView.mc" lineNum="581" pc="268441441" symbol="checkpropertyString"/>
+<entry filename="C:\\BACKUP\\PGM\\eWorkSpace\\WorkItOut v2.3\\.\\source\\WorkItOutView.mc" lineNum="582" pc="268441441" symbol="checkpropertyString"/>
+<entry filename="C:\\BACKUP\\PGM\\eWorkSpace\\WorkItOut v2.3\\.\\source\\WorkItOutView.mc" lineNum="583" pc="268441448" symbol="checkpropertyString"/>
+<entry filename="C:\\BACKUP\\PGM\\eWorkSpace\\WorkItOut v2.3\\.\\source\\WorkItOutView.mc" lineNum="586" pc="268441458" symbol="checkpropertyString"/>
+<entry filename="C:\\BACKUP\\PGM\\eWorkSpace\\WorkItOut v2.3\\.\\source\\WorkItOutView.mc" lineNum="588" pc="268441496" symbol="checkpropertyString"/>
+<entry filename="C:\\BACKUP\\PGM\\eWorkSpace\\WorkItOut v2.3\\.\\source\\WorkItOutView.mc" lineNum="591" pc="268441500" symbol="checkpropertynumber"/>
+<entry filename="C:\\BACKUP\\PGM\\eWorkSpace\\WorkItOut v2.3\\.\\source\\WorkItOutView.mc" lineNum="595" pc="268441512" symbol="checkpropertynumber"/>
+<entry filename="C:\\BACKUP\\PGM\\eWorkSpace\\WorkItOut v2.3\\.\\source\\WorkItOutView.mc" lineNum="596" pc="268441512" symbol="checkpropertynumber"/>
+<entry filename="C:\\BACKUP\\PGM\\eWorkSpace\\WorkItOut v2.3\\.\\source\\WorkItOutView.mc" lineNum="597" pc="268441519" symbol="checkpropertynumber"/>
+<entry filename="C:\\BACKUP\\PGM\\eWorkSpace\\WorkItOut v2.3\\.\\source\\WorkItOutView.mc" lineNum="600" pc="268441529" symbol="checkpropertynumber"/>
+<entry filename="C:\\BACKUP\\PGM\\eWorkSpace\\WorkItOut v2.3\\.\\source\\WorkItOutView.mc" lineNum="602" pc="268441542" symbol="checkpropertynumber"/>
+<entry filename="C:\\BACKUP\\PGM\\eWorkSpace\\WorkItOut v2.3\\.\\source\\FilledGraph.mc" lineNum="26" pc="268441546" symbol="initialize"/>
+<entry filename="C:\\BACKUP\\PGM\\eWorkSpace\\WorkItOut v2.3\\.\\source\\FilledGraph.mc" lineNum="28" pc="268441550" symbol="initialize"/>
+<entry filename="C:\\BACKUP\\PGM\\eWorkSpace\\WorkItOut v2.3\\.\\source\\FilledGraph.mc" lineNum="29" pc="268441563" symbol="initialize"/>
+<entry filename="C:\\BACKUP\\PGM\\eWorkSpace\\WorkItOut v2.3\\.\\source\\FilledGraph.mc" lineNum="31" pc="268441574" symbol="initialize"/>
+<entry filename="C:\\BACKUP\\PGM\\eWorkSpace\\WorkItOut v2.3\\.\\source\\FilledGraph.mc" lineNum="33" pc="268441598" symbol="initialize"/>
+<entry filename="C:\\BACKUP\\PGM\\eWorkSpace\\WorkItOut v2.3\\.\\source\\FilledGraph.mc" lineNum="34" pc="268441609" symbol="initialize"/>
+<entry filename="C:\\BACKUP\\PGM\\eWorkSpace\\WorkItOut v2.3\\.\\source\\FilledGraph.mc" lineNum="35" pc="268441622" symbol="initialize"/>
+<entry filename="C:\\BACKUP\\PGM\\eWorkSpace\\WorkItOut v2.3\\.\\source\\FilledGraph.mc" lineNum="36" pc="268441635" symbol="initialize"/>
+<entry filename="C:\\BACKUP\\PGM\\eWorkSpace\\WorkItOut v2.3\\.\\source\\FilledGraph.mc" lineNum="37" pc="268441648" symbol="initialize"/>
+<entry filename="C:\\BACKUP\\PGM\\eWorkSpace\\WorkItOut v2.3\\.\\source\\FilledGraph.mc" lineNum="38" pc="268441661" symbol="initialize"/>
+<entry filename="C:\\BACKUP\\PGM\\eWorkSpace\\WorkItOut v2.3\\.\\source\\FilledGraph.mc" lineNum="41" pc="268441672" symbol="getMin"/>
+<entry filename="C:\\BACKUP\\PGM\\eWorkSpace\\WorkItOut v2.3\\.\\source\\FilledGraph.mc" lineNum="42" pc="268441676" symbol="getMin"/>
+<entry filename="C:\\BACKUP\\PGM\\eWorkSpace\\WorkItOut v2.3\\.\\source\\FilledGraph.mc" lineNum="45" pc="268441686" symbol="getMax"/>
+<entry filename="C:\\BACKUP\\PGM\\eWorkSpace\\WorkItOut v2.3\\.\\source\\FilledGraph.mc" lineNum="46" pc="268441690" symbol="getMax"/>
+<entry filename="C:\\BACKUP\\PGM\\eWorkSpace\\WorkItOut v2.3\\.\\source\\FilledGraph.mc" lineNum="50" pc="268441700" symbol="addItem"/>
+<entry filename="C:\\BACKUP\\PGM\\eWorkSpace\\WorkItOut v2.3\\.\\source\\FilledGraph.mc" lineNum="56" pc="268441704" symbol="addItem"/>
+<entry filename="C:\\BACKUP\\PGM\\eWorkSpace\\WorkItOut v2.3\\.\\source\\FilledGraph.mc" lineNum="58" pc="268441735" symbol="addItem"/>
+<entry filename="C:\\BACKUP\\PGM\\eWorkSpace\\WorkItOut v2.3\\.\\source\\FilledGraph.mc" lineNum="60" pc="268441763" symbol="addItem"/>
+<entry filename="C:\\BACKUP\\PGM\\eWorkSpace\\WorkItOut v2.3\\.\\source\\FilledGraph.mc" lineNum="62" pc="268441782" symbol="addItem"/>
+<entry filename="C:\\BACKUP\\PGM\\eWorkSpace\\WorkItOut v2.3\\.\\source\\FilledGraph.mc" lineNum="63" pc="268441817" symbol="addItem"/>
+<entry filename="C:\\BACKUP\\PGM\\eWorkSpace\\WorkItOut v2.3\\.\\source\\FilledGraph.mc" lineNum="64" pc="268441830" symbol="addItem"/>
+<entry filename="C:\\BACKUP\\PGM\\eWorkSpace\\WorkItOut v2.3\\.\\source\\FilledGraph.mc" lineNum="68" pc="268441843" symbol="addItem"/>
+<entry filename="C:\\BACKUP\\PGM\\eWorkSpace\\WorkItOut v2.3\\.\\source\\FilledGraph.mc" lineNum="69" pc="268441894" symbol="addItem"/>
+<entry filename="C:\\BACKUP\\PGM\\eWorkSpace\\WorkItOut v2.3\\.\\source\\FilledGraph.mc" lineNum="70" pc="268441904" symbol="addItem"/>
+<entry filename="C:\\BACKUP\\PGM\\eWorkSpace\\WorkItOut v2.3\\.\\source\\FilledGraph.mc" lineNum="71" pc="268441914" symbol="addItem"/>
+<entry filename="C:\\BACKUP\\PGM\\eWorkSpace\\WorkItOut v2.3\\.\\source\\FilledGraph.mc" lineNum="72" pc="268441930" symbol="addItem"/>
+<entry filename="C:\\BACKUP\\PGM\\eWorkSpace\\WorkItOut v2.3\\.\\source\\FilledGraph.mc" lineNum="76" pc="268441949" symbol="addItem"/>
+<entry filename="C:\\BACKUP\\PGM\\eWorkSpace\\WorkItOut v2.3\\.\\source\\FilledGraph.mc" lineNum="78" pc="268441963" symbol="addItem"/>
+<entry filename="C:\\BACKUP\\PGM\\eWorkSpace\\WorkItOut v2.3\\.\\source\\FilledGraph.mc" lineNum="79" pc="268441973" symbol="addItem"/>
+<entry filename="C:\\BACKUP\\PGM\\eWorkSpace\\WorkItOut v2.3\\.\\source\\FilledGraph.mc" lineNum="80" pc="268441992" symbol="addItem"/>
+<entry filename="C:\\BACKUP\\PGM\\eWorkSpace\\WorkItOut v2.3\\.\\source\\FilledGraph.mc" lineNum="81" pc="268442006" symbol="addItem"/>
+<entry filename="C:\\BACKUP\\PGM\\eWorkSpace\\WorkItOut v2.3\\.\\source\\FilledGraph.mc" lineNum="82" pc="268442016" symbol="addItem"/>
+<entry filename="C:\\BACKUP\\PGM\\eWorkSpace\\WorkItOut v2.3\\.\\source\\FilledGraph.mc" lineNum="88" pc="268442039" symbol="draw"/>
+<entry filename="C:\\BACKUP\\PGM\\eWorkSpace\\WorkItOut v2.3\\.\\source\\FilledGraph.mc" lineNum="96" pc="268442043" symbol="draw"/>
+<entry filename="C:\\BACKUP\\PGM\\eWorkSpace\\WorkItOut v2.3\\.\\source\\FilledGraph.mc" lineNum="97" pc="268442101" symbol="draw"/>
+<entry filename="C:\\BACKUP\\PGM\\eWorkSpace\\WorkItOut v2.3\\.\\source\\FilledGraph.mc" lineNum="98" pc="268442111" symbol="draw"/>
+<entry filename="C:\\BACKUP\\PGM\\eWorkSpace\\WorkItOut v2.3\\.\\source\\FilledGraph.mc" lineNum="99" pc="268442121" symbol="draw"/>
+<entry filename="C:\\BACKUP\\PGM\\eWorkSpace\\WorkItOut v2.3\\.\\source\\FilledGraph.mc" lineNum="100" pc="268442131" symbol="draw"/>
+<entry filename="C:\\BACKUP\\PGM\\eWorkSpace\\WorkItOut v2.3\\.\\source\\FilledGraph.mc" lineNum="103" pc="268442141" symbol="draw"/>
+<entry filename="C:\\BACKUP\\PGM\\eWorkSpace\\WorkItOut v2.3\\.\\source\\FilledGraph.mc" lineNum="104" pc="268442148" symbol="draw"/>
+<entry filename="C:\\BACKUP\\PGM\\eWorkSpace\\WorkItOut v2.3\\.\\source\\FilledGraph.mc" lineNum="105" pc="268442168" symbol="draw"/>
+<entry filename="C:\\BACKUP\\PGM\\eWorkSpace\\WorkItOut v2.3\\.\\source\\FilledGraph.mc" lineNum="107" pc="268442202" symbol="draw"/>
+<entry filename="C:\\BACKUP\\PGM\\eWorkSpace\\WorkItOut v2.3\\.\\source\\FilledGraph.mc" lineNum="108" pc="268442233" symbol="draw"/>
+<entry filename="C:\\BACKUP\\PGM\\eWorkSpace\\WorkItOut v2.3\\.\\source\\FilledGraph.mc" lineNum="109" pc="268442233" symbol="draw"/>
+<entry filename="C:\\BACKUP\\PGM\\eWorkSpace\\WorkItOut v2.3\\.\\source\\FilledGraph.mc" lineNum="112" pc="268442253" symbol="draw"/>
+<entry filename="C:\\BACKUP\\PGM\\eWorkSpace\\WorkItOut v2.3\\.\\source\\FilledGraph.mc" lineNum="113" pc="268442253" symbol="draw"/>
+<entry filename="C:\\BACKUP\\PGM\\eWorkSpace\\WorkItOut v2.3\\.\\source\\FilledGraph.mc" lineNum="114" pc="268442263" symbol="draw"/>
+<entry filename="C:\\BACKUP\\PGM\\eWorkSpace\\WorkItOut v2.3\\.\\source\\FilledGraph.mc" lineNum="115" pc="268442270" symbol="draw"/>
+<entry filename="C:\\BACKUP\\PGM\\eWorkSpace\\WorkItOut v2.3\\.\\source\\FilledGraph.mc" lineNum="116" pc="268442277" symbol="draw"/>
+<entry filename="C:\\BACKUP\\PGM\\eWorkSpace\\WorkItOut v2.3\\.\\source\\FilledGraph.mc" lineNum="118" pc="268442307" symbol="draw"/>
+<entry filename="C:\\BACKUP\\PGM\\eWorkSpace\\WorkItOut v2.3\\.\\source\\FilledGraph.mc" lineNum="119" pc="268442323" symbol="draw"/>
+<entry filename="C:\\BACKUP\\PGM\\eWorkSpace\\WorkItOut v2.3\\.\\source\\FilledGraph.mc" lineNum="120" pc="268442333" symbol="draw"/>
+<entry filename="C:\\BACKUP\\PGM\\eWorkSpace\\WorkItOut v2.3\\.\\source\\FilledGraph.mc" lineNum="122" pc="268442364" symbol="draw"/>
+<entry filename="C:\\BACKUP\\PGM\\eWorkSpace\\WorkItOut v2.3\\.\\source\\FilledGraph.mc" lineNum="123" pc="268442374" symbol="draw"/>
+<entry filename="C:\\BACKUP\\PGM\\eWorkSpace\\WorkItOut v2.3\\.\\source\\FilledGraph.mc" lineNum="125" pc="268442378" symbol="draw"/>
+<entry filename="C:\\BACKUP\\PGM\\eWorkSpace\\WorkItOut v2.3\\.\\source\\FilledGraph.mc" lineNum="126" pc="268442427" symbol="draw"/>
+<entry filename="C:\\BACKUP\\PGM\\eWorkSpace\\WorkItOut v2.3\\.\\source\\FilledGraph.mc" lineNum="127" pc="268442437" symbol="draw"/>
+<entry filename="C:\\BACKUP\\PGM\\eWorkSpace\\WorkItOut v2.3\\.\\source\\FilledGraph.mc" lineNum="128" pc="268442460" symbol="draw"/>
+<entry filename="C:\\BACKUP\\PGM\\eWorkSpace\\WorkItOut v2.3\\.\\source\\FilledGraph.mc" lineNum="133" pc="268442483" symbol="draw"/>
+<entry filename="C:\\BACKUP\\PGM\\eWorkSpace\\WorkItOut v2.3\\.\\source\\FilledGraph.mc" lineNum="134" pc="268442519" symbol="draw"/>
+<entry filename="C:\\BACKUP\\PGM\\eWorkSpace\\WorkItOut v2.3\\.\\source\\FilledGraph.mc" lineNum="135" pc="268442536" symbol="draw"/>
+<entry filename="C:\\BACKUP\\PGM\\eWorkSpace\\WorkItOut v2.3\\.\\source\\FilledGraph.mc" lineNum="136" pc="268442543" symbol="draw"/>
+<entry filename="C:\\BACKUP\\PGM\\eWorkSpace\\WorkItOut v2.3\\.\\source\\FilledGraph.mc" lineNum="137" pc="268442573" symbol="draw"/>
+<entry filename="C:\\BACKUP\\PGM\\eWorkSpace\\WorkItOut v2.3\\.\\source\\FilledGraph.mc" lineNum="139" pc="268442639" symbol="draw"/>
+<entry filename="C:\\BACKUP\\PGM\\eWorkSpace\\WorkItOut v2.3\\.\\source\\FilledGraph.mc" lineNum="140" pc="268442675" symbol="draw"/>
+<entry filename="C:\\BACKUP\\PGM\\eWorkSpace\\WorkItOut v2.3\\.\\source\\WorkItOutApp.mc" lineNum="7" pc="268442730" symbol="initialize"/>
+<entry filename="C:\\BACKUP\\PGM\\eWorkSpace\\WorkItOut v2.3\\.\\source\\WorkItOutApp.mc" lineNum="9" pc="268442734" symbol="initialize"/>
+<entry filename="C:\\BACKUP\\PGM\\eWorkSpace\\WorkItOut v2.3\\.\\source\\WorkItOutApp.mc" lineNum="14" pc="268442753" symbol="onStart"/>
+<entry filename="C:\\BACKUP\\PGM\\eWorkSpace\\WorkItOut v2.3\\.\\source\\WorkItOutApp.mc" lineNum="20" pc="268442758" symbol="onStop"/>
+<entry filename="C:\\BACKUP\\PGM\\eWorkSpace\\WorkItOut v2.3\\.\\source\\WorkItOutApp.mc" lineNum="26" pc="268442763" symbol="getInitialView"/>
+<entry filename="C:\\BACKUP\\PGM\\eWorkSpace\\WorkItOut v2.3\\.\\source\\WorkItOutApp.mc" lineNum="27" pc="268442767" symbol="getInitialView"/>
+<entry filename="C:\\BACKUP\\PGM\\eWorkSpace\\WorkItOut v2.3\\.\\source\\WorkItOutApp.mc" lineNum="29" pc="268442780" symbol="getInitialView"/>
+<entry filename="C:\\BACKUP\\PGM\\eWorkSpace\\WorkItOut v2.3\\.\\source\\WorkItOutApp.mc" lineNum="31" pc="268442813" symbol="getInitialView"/>
+<entry filename="Rez" lineNum="42" pc="268442867" symbol="initialize"/>
+<entry filename="Rez" lineNum="43" pc="268442871" symbol="initialize"/>
+<entry filename="Rez" lineNum="44" pc="268442889" symbol="initialize"/>
+<entry filename="Rez" lineNum="45" pc="268442941" symbol="initialize"/>
+<entry filename="Rez" lineNum="46" pc="268442993" symbol="initialize"/>
+<entry filename="Rez" lineNum="61" pc="268443046" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="65" pc="268443058" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="66" pc="268443221" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="67" pc="268443246" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="70" pc="268443298" symbol="MainLayout"/>
+</pcToLineNum>
+<symbolTable>
+<entry field="true" id="81" symbol="workoutTime"/>
+<entry field="true" id="34" symbol="min30max300"/>
+<entry field="true" id="35" symbol="workout5_title"/>
+<entry field="true" id="52" symbol="workout4_title"/>
+<entry field="true" id="48" symbol="workout3_title"/>
+<entry field="true" id="55" symbol="wkpround_title"/>
+<entry id="8389124" method="true" symbol="onUpdate"/>
+<entry id="8389349" symbol="justification"/>
+<entry field="true" id="41" symbol="min1max20"/>
+<entry field="true" id="65" symbol="string_HR"/>
+<entry id="8389097" method="true" symbol="onKey"/>
+<entry field="true" id="71" symbol="mediumFontHeight"/>
+<entry field="true" id="11" symbol="behavior_string"/>
+<entry field="true" id="56" symbol="workout15_title"/>
+<entry field="true" id="8388611" module="true" symbol="Toybox"/>
+<entry id="8388645" module="true" symbol="Time"/>
+<entry field="true" id="84" symbol="vibrateData"/>
+<entry id="32" object="true" symbol="MainMenu"/>
+<entry id="8388770" module="true" object="true" symbol="Strings"/>
+<entry id="8389095" method="true" symbol="addItem"/>
+<entry field="true" id="83" symbol="totalTime"/>
+<entry id="8389280" method="true" symbol="getInitialView"/>
+<entry id="8389068" method="true" symbol="draw"/>
+<entry field="true" id="10" symbol="action_string"/>
+<entry id="8388640" module="true" symbol="Lang"/>
+<entry field="true" id="54" symbol="min3max15"/>
+<entry id="33" method="true" symbol="MainLayout"/>
+<entry field="true" id="17" symbol="pauseDuration"/>
+<entry id="19" method="true" symbol="setBehaviorString"/>
+<entry field="true" id="72" symbol="smallFontHeight"/>
+<entry field="true" id="8388705" method="true" symbol="callback"/>
+<entry field="true" id="44" symbol="resttime_title"/>
+<entry field="true" id="45" symbol="beep_title"/>
+<entry id="8388769" module="true" object="true" symbol="Rez"/>
+<entry id="20" method="true" symbol="stopRecording"/>
+<entry id="8389123" method="true" symbol="onShow"/>
+<entry field="true" id="61" symbol="workout7_title"/>
+<entry field="true" id="88" symbol="graphIndex"/>
+<entry id="22" object="true" symbol="WorkItOutDelegate"/>
+<entry field="true" id="40" symbol="workout6_title"/>
+<entry field="true" id="53" symbol="workout10_title"/>
+<entry id="8388638" module="true" symbol="ActivityRecording"/>
+<entry field="true" id="80" symbol="workoutArray_prop"/>
+<entry field="true" id="93" symbol="indexMaxReached"/>
+<entry field="true" id="76" symbol="nrRound_prop"/>
+<entry field="true" id="74" symbol="beep_prop"/>
+<entry id="8388636" module="true" symbol="Attention"/>
+<entry id="8388702" method="true" symbol="initialize"/>
+<entry id="85" method="true" symbol="onSnsr"/>
+<entry field="true" id="38" symbol="AppName"/>
+<entry field="true" id="14" symbol="loadMode"/>
+<entry id="8388890" symbol="sport"/>
+<entry field="true" id="8388892" symbol="name"/>
+<entry id="27" object="true" symbol="FilledGraph"/>
+<entry field="true" id="70" symbol="largeFontHeight"/>
+<entry id="97" symbol="item_3"/>
+<entry id="96" symbol="item_2"/>
+<entry id="95" symbol="item_1"/>
+<entry field="true" id="13" symbol="LOAD_EXIT"/>
+<entry field="true" id="15" symbol="startMoment"/>
+<entry id="8388641" module="true" symbol="Math"/>
+<entry field="true" id="73" symbol="record_prop"/>
+<entry field="true" id="50" symbol="record_title"/>
+<entry field="true" id="31" symbol="LauncherIcon"/>
+<entry field="true" id="47" symbol="nrround_title"/>
+<entry id="8388646" module="true" object="true" symbol="Timer"/>
+<entry field="true" id="58" symbol="menu_label_3"/>
+<entry field="true" id="60" symbol="menu_label_2"/>
+<entry field="true" id="59" symbol="menu_label_1"/>
+<entry id="8389281" method="true" symbol="onStop"/>
+<entry id="8389707" method="true" symbol="getMin"/>
+<entry id="18" method="true" symbol="setActionString"/>
+<entry id="26" method="true" symbol="checkpropertynumber"/>
+<entry field="true" id="8389065" symbol="locY"/>
+<entry field="true" id="8389064" symbol="locX"/>
+<entry id="8388771" module="true" object="true" symbol="Drawables"/>
+<entry id="21" object="true" symbol="WorkItOutView"/>
+<entry id="8388891" symbol="subSport"/>
+<entry field="true" id="49" symbol="workout9_title"/>
+<entry id="8389122" method="true" symbol="onLayout"/>
+<entry field="true" id="57" symbol="vibrate_title"/>
+<entry field="true" id="46" symbol="workout8_title"/>
+<entry field="true" id="43" symbol="workout12_title"/>
+<entry field="true" id="37" symbol="workout11_title"/>
+<entry field="true" id="75" symbol="vibrate_prop"/>
+<entry field="true" id="9" symbol="last_key"/>
+<entry id="8389279" method="true" symbol="onStart"/>
+<entry id="8389706" method="true" symbol="getMax"/>
+<entry id="8389348" symbol="font"/>
+<entry id="8389347" symbol="color"/>
+<entry field="true" id="12" symbol="LOAD_NORMAL"/>
+<entry field="true" id="66" symbol="HR_graph"/>
+<entry field="true" id="78" symbol="exerciseTime_prop"/>
+<entry field="true" id="8388651" symbol="session"/>
+<entry id="8389109" method="true" symbol="onMenuItem"/>
+<entry field="true" id="91" symbol="indexMin"/>
+<entry field="true" id="51" symbol="workout2_title"/>
+<entry id="30" module="true" symbol="Layouts"/>
+<entry field="true" id="36" symbol="workout1_title"/>
+<entry field="true" id="62" symbol="prompt"/>
+<entry field="true" id="82" symbol="roundTime"/>
+<entry id="23" object="true" symbol="WorkItOutMenuDelegate"/>
+<entry id="8389125" method="true" symbol="onHide"/>
+<entry field="true" id="92" symbol="indexMax"/>
+<entry field="true" id="68" symbol="showHeart"/>
+<entry field="true" id="89" symbol="graphMin"/>
+<entry id="25" method="true" symbol="checkpropertyString"/>
+<entry id="8390088" module="true" object="true" symbol="JsonData"/>
+<entry field="true" id="64" symbol="min5max120"/>
+<entry field="true" id="16" symbol="pauseMoment"/>
+<entry id="86" method="true" symbol="timerCallback"/>
+<entry field="true" id="42" symbol="workout14_title"/>
+<entry field="true" id="77" symbol="workoutPRound_prop"/>
+<entry field="true" id="69" symbol="dataTimer"/>
+<entry id="8389346" symbol="text"/>
+<entry field="true" id="63" symbol="workout13_title"/>
+<entry field="true" id="90" symbol="graphMax"/>
+<entry id="29" module="true" symbol="Menus"/>
+<entry id="28" object="true" symbol="WorkItOutApp"/>
+<entry field="true" id="94" symbol="workItOutView"/>
+<entry field="true" id="79" symbol="restTime_prop"/>
+<entry field="true" id="87" symbol="graphArray"/>
+<entry id="8388772" module="true" object="true" symbol="Fonts"/>
+<entry field="true" id="67" symbol="value_HR"/>
+<entry id="24" method="true" symbol="convertDeg2ArcDeg"/>
+<entry field="true" id="39" symbol="extime_title"/>
+</symbolTable>
+<localVars>
+<entry endPc="268435495" name="new_string" stackId="1" startPc="268435456"/>
+<entry endPc="268435534" name="new_string" stackId="1" startPc="268435495"/>
+<entry endPc="268435683" name="sessionSaveOnExit" stackId="1" startPc="268435534"/>
+<entry endPc="268436132" name="i" stackId="2" startPc="268436066"/>
+<entry endPc="268436576" name="app" stackId="1" startPc="268435687"/>
+<entry endPc="268436697" name="HR" stackId="2" startPc="268436581"/>
+<entry endPc="268436697" name="bucket" stackId="3" startPc="268436581"/>
+<entry endPc="268436698" name="sensor_info" stackId="1" startPc="268436577"/>
+<entry endPc="268436911" name="dc" stackId="1" startPc="268436738"/>
+<entry endPc="268438277" name="i" stackId="23" startPc="268438203"/>
+<entry endPc="268438291" name="heartCoord" stackId="21" startPc="268437681"/>
+<entry endPc="268438291" name="scaleFactor" stackId="18" startPc="268437681"/>
+<entry endPc="268438291" name="heartY" stackId="20" startPc="268437681"/>
+<entry endPc="268438291" name="heartCoordXY" stackId="22" startPc="268437681"/>
+<entry endPc="268438291" name="heartX" stackId="19" startPc="268437681"/>
+<entry endPc="268440695" name="nowMoment" stackId="25" startPc="268437012"/>
+<entry endPc="268440695" name="widthArc2" stackId="6" startPc="268437012"/>
+<entry endPc="268440695" name="minWorkout" stackId="33" startPc="268437012"/>
+<entry endPc="268440695" name="widthArc" stackId="4" startPc="268437012"/>
+<entry endPc="268440695" name="totalSec" stackId="27" startPc="268437012"/>
+<entry endPc="268440695" name="radiusArc" stackId="5" startPc="268437012"/>
+<entry endPc="268440695" name="radiusArc2" stackId="7" startPc="268437012"/>
+<entry endPc="268440695" name="posYHRBottomChart" stackId="12" startPc="268437012"/>
+<entry endPc="268440695" name="posYExerciseText" stackId="13" startPc="268437012"/>
+<entry endPc="268440695" name="angleTotalTime" stackId="35" startPc="268437012"/>
+<entry endPc="268440695" name="posYSplitLine" stackId="14" startPc="268437012"/>
+<entry endPc="268440695" name="durationSec" stackId="26" startPc="268437012"/>
+<entry endPc="268440695" name="posYHR" stackId="10" startPc="268437012"/>
+<entry endPc="268440695" name="posYMinMax" stackId="8" startPc="268437012"/>
+<entry endPc="268440695" name="exerciseRelaxAngle" stackId="24" startPc="268437012"/>
+<entry endPc="268440695" name="workoutIndex" stackId="38" startPc="268437012"/>
+<entry endPc="268440695" name="workoutCount" stackId="37" startPc="268437012"/>
+<entry endPc="268440695" name="totalSecWorkout" stackId="30" startPc="268437012"/>
+<entry endPc="268440695" name="minHR" stackId="16" startPc="268437012"/>
+<entry endPc="268440695" name="secWorkout" stackId="34" startPc="268437012"/>
+<entry endPc="268440695" name="height" stackId="3" startPc="268437012"/>
+<entry endPc="268440695" name="angleSecWorkout" stackId="36" startPc="268437012"/>
+<entry endPc="268440695" name="posYHRTopChart" stackId="9" startPc="268437012"/>
+<entry endPc="268440695" name="width" stackId="2" startPc="268437012"/>
+<entry endPc="268440695" name="min" stackId="31" startPc="268437012"/>
+<entry endPc="268440695" name="remainingTotalSec" stackId="28" startPc="268437012"/>
+<entry endPc="268440695" name="remainingWorkoutSec" stackId="29" startPc="268437012"/>
+<entry endPc="268440695" name="posXHR" stackId="11" startPc="268437012"/>
+<entry endPc="268440695" name="maxHR" stackId="17" startPc="268437012"/>
+<entry endPc="268440695" name="posYTime" stackId="15" startPc="268437012"/>
+<entry endPc="268440695" name="sec" stackId="32" startPc="268437012"/>
+<entry endPc="268440695" name="nextWorkoutIndex" stackId="39" startPc="268437012"/>
+<entry endPc="268440696" name="dc" stackId="1" startPc="268437008"/>
+<entry endPc="268441123" name="key" stackId="2" startPc="268440746"/>
+<entry endPc="268441124" name="evt" stackId="1" startPc="268440742"/>
+<entry endPc="268441255" name="currentTime" stackId="2" startPc="268441162"/>
+<entry endPc="268441379" name="item" stackId="1" startPc="268441147"/>
+<entry endPc="268441428" name="result" stackId="2" startPc="268441391"/>
+<entry endPc="268441429" name="deg" stackId="1" startPc="268441379"/>
+<entry endPc="268441499" name="result" stackId="2" startPc="268441441"/>
+<entry endPc="268441500" name="inputProp" stackId="1" startPc="268441429"/>
+<entry endPc="268441545" name="result" stackId="2" startPc="268441512"/>
+<entry endPc="268441546" name="inputProp" stackId="1" startPc="268441500"/>
+<entry endPc="268441672" name="size" stackId="1" startPc="268441546"/>
+<entry endPc="268442039" name="value" stackId="1" startPc="268441700"/>
+<entry endPc="268442726" name="x2" stackId="6" startPc="268442101"/>
+<entry endPc="268442726" name="x1" stackId="4" startPc="268442101"/>
+<entry endPc="268442726" name="drawRatioY" stackId="8" startPc="268442101"/>
+<entry endPc="268442726" name="drawRatioX" stackId="9" startPc="268442101"/>
+<entry endPc="268442726" name="j" stackId="15" startPc="268442101"/>
+<entry endPc="268442726" name="i" stackId="11" startPc="268442101"/>
+<entry endPc="268442726" name="resultY" stackId="14" startPc="268442101"/>
+<entry endPc="268442726" name="index" stackId="12" startPc="268442101"/>
+<entry endPc="268442726" name="resultX" stackId="13" startPc="268442101"/>
+<entry endPc="268442726" name="y2" stackId="7" startPc="268442101"/>
+<entry endPc="268442726" name="coords" stackId="10" startPc="268442101"/>
+<entry endPc="268442726" name="y1" stackId="5" startPc="268442101"/>
+<entry endPc="268442730" name="dc" stackId="1" startPc="268442039"/>
+<entry endPc="268442730" name="bottomRight" stackId="3" startPc="268442039"/>
+<entry endPc="268442730" name="topLeft" stackId="2" startPc="268442039"/>
+<entry endPc="268442758" name="state" stackId="1" startPc="268442753"/>
+<entry endPc="268442763" name="state" stackId="1" startPc="268442758"/>
+<entry endPc="268443315" name="rez_cmp_local_bitmap_LEGFTBCB7N_fontHeight" stackId="3" startPc="268443058"/>
+<entry endPc="268443315" name="rez_cmp_local_bitmap_LEGFTBCB7N" stackId="2" startPc="268443058"/>
+<entry endPc="268443316" name="dc" stackId="1" startPc="268443046"/>
+</localVars>
+<annotations/>
+<functions>
+<functionEntry accessMode="public" name="setActionString">
+<param id="new_string"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="setBehaviorString">
+<param id="new_string"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="stopRecording">
+<param id="sessionSaveOnExit"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="WorkItOutView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onSnsr" parent="WorkItOutView">
+<param id="sensor_info"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="timerCallback" parent="WorkItOutView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onLayout" parent="WorkItOutView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onShow" parent="WorkItOutView">
+<documentation><![CDATA[<div class="description"> Called when this View is brought to the foreground. Restore<br/> the state of this View and prepare it to be shown. This includes<br/> loading resources into memory.<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry accessMode="public" name="onUpdate" parent="WorkItOutView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onHide" parent="WorkItOutView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="WorkItOutDelegate">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onKey" parent="WorkItOutDelegate">
+<param id="evt"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="WorkItOutMenuDelegate">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onMenuItem" parent="WorkItOutMenuDelegate">
+<param id="item"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="convertDeg2ArcDeg">
+<param id="deg"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="checkpropertyString">
+<param id="inputProp"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="checkpropertynumber">
+<param id="inputProp"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="FilledGraph">
+<param id="size"/>
+<documentation><![CDATA[<div class="description"> Constructor<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry accessMode="public" name="getMin" parent="FilledGraph">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="getMax" parent="FilledGraph">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="addItem" parent="FilledGraph">
+<param id="value"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="draw" parent="FilledGraph">
+<param id="dc"/>
+<param id="topLeft"/>
+<param id="bottomRight"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="WorkItOutApp">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onStart" parent="WorkItOutApp">
+<param id="state"/>
+<documentation><![CDATA[<div class="description"> onStart() is called on application start up<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry accessMode="public" name="onStop" parent="WorkItOutApp">
+<param id="state"/>
+<documentation><![CDATA[<div class="description"> onStop() is called when your application is exiting<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry accessMode="public" name="getInitialView" parent="WorkItOutApp">
+<documentation><![CDATA[<div class="description"> Return the initial view of your application here<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="MainMenu">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="MainLayout" parent="Layouts">
+<param id="dc"/>
+<documentation><![CDATA[<div class="description"> Draw the layout<br/> param The context<br/></div>]]></documentation>
+</functionEntry>
+</functions>
+<dataEntryOffsetMappings>
+<dataEntry offset="87" parentId="" symbolId="globals" type="module"/>
+<dataEntry offset="326" parentId="globals" symbolId="WorkItOutMenuDelegate" type="class"/>
+<dataEntry offset="381" parentId="globals" symbolId="Rez" type="module"/>
+<dataEntry offset="460" parentId="Rez" symbolId="Drawables" type="module"/>
+<dataEntry offset="499" parentId="Rez" symbolId="Menus" type="module"/>
+<dataEntry offset="538" parentId="Menus" symbolId="MainMenu" type="class"/>
+<dataEntry offset="585" parentId="Rez" symbolId="Fonts" type="module"/>
+<dataEntry offset="616" parentId="Rez" symbolId="JsonData" type="module"/>
+<dataEntry offset="647" parentId="Rez" symbolId="Layouts" type="module"/>
+<dataEntry offset="686" parentId="Rez" symbolId="Strings" type="module"/>
+<dataEntry offset="965" parentId="globals" symbolId="WorkItOutDelegate" type="class"/>
+<dataEntry offset="1020" parentId="globals" symbolId="WorkItOutView" type="class"/>
+<dataEntry offset="1283" parentId="globals" symbolId="FilledGraph" type="class"/>
+<dataEntry offset="1418" parentId="globals" symbolId="WorkItOutApp" type="class"/>
+</dataEntryOffsetMappings>
+</debugInfo>

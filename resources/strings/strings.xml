@@ -1,0 +1,9 @@
+<strings>
+	<string id="AppName">WorkItOut</string>
+
+	<string id="prompt">Click the menu button</string>
+
+	<string id="menu_label_1">Resume Activity</string>
+	<string id="menu_label_2">Save Activity and exit</string>
+	<string id="menu_label_3">Discard Activity and exit</string>
+</strings>
