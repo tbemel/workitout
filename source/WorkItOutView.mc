@@ -403,7 +403,9 @@ class WorkItOutView extends Ui.View
 	        	    Attention.vibrate( vibrateData );
 	        	    }
 	        	if (beep_prop == true) {
-	        		Attention.playTone( 2 );
+	        	    if (Attention has :playTone) {
+	        	        Attention.playTone( 2 );
+	        	    }
 	        		}
 	        } else if (totalSecWorkout == 0)
 	        // if starting the exercise, beep twice, once at 0 se, then at 1 sec
@@ -412,8 +414,10 @@ class WorkItOutView extends Ui.View
 	        	    Attention.vibrate( vibrateData );
 	        	    }
 	        	if (beep_prop == true) {
-	        		Attention.playTone( 1 );
-	        		}
+	        	    if (Attention has :playTone) {
+	        	        Attention.playTone( 1 );
+	        	    }
+	        	}
 	
 	        } else if (totalSecWorkout == 1) 
 	        {
